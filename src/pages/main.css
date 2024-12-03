@@ -1,0 +1,6 @@
+@media screen and (max-width:950px){
+    .buttons{
+        flex-direction: column !important;
+        gap: 30px;
+    }
+}

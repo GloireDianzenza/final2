@@ -1,0 +1,14 @@
+.buttons{
+    width: 100% !important;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2.5rem;
+}
+
+@media screen and (max-width:500px) {
+    .buttons{
+        flex-direction: column;
+        gap: 30px !important;
+    }
+}

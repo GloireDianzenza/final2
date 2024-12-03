@@ -1,0 +1,17 @@
+form{
+    width: 80%;
+
+    label{
+        color: white !important;
+    }
+
+    input,textarea{
+        color: black !important;
+    }
+
+    textarea{
+        width: 100%;
+        border-radius: 15px;
+        padding: 20px;
+    }
+}
